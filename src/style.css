@@ -1,26 +1,4 @@
-@media screen and (orientation:landscape)
-        {
-            body {
-                display: grid;
-                grid-template-columns:12fr;
-            }
-            header {
-                grid-row: 2;
-                
-            }
-            nav {
-                grid-row: 1;
-                
-            }
-            section {
-                grid-row: 3;
-                
-            }
-            footer {
-                grid-row: 4;
-                
-            }
-        }
+
         @media screen and (orientation:portrait) {
             
                 body {
